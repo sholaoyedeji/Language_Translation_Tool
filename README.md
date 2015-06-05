@@ -9,3 +9,4 @@ Instruction on how to Run the program
 
 3. GUI use: open terminal, navigate to the directory using cd and run by typing ./transgui.sh and press enter on keyboard 
 
+You can report issues via: abdullateef.oyedeji8@gmail.com
